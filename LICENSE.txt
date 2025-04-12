@@ -1,9 +1,24 @@
-## Disclaimer of liability and copyright
+This is free and unencumbered software released into the public domain.
 
-This content is in the public domain and is not protected by copyright. This means that you are free to use, copy, modify, distribute and create derivative works based on this content without any restrictions or the need for permission.
+Anyone is free to copy, modify, publish, use, compile, sell, or
+distribute this software, either in source code form or as a compiled
+binary, for any purpose, commercial or non-commercial, and by any
+means.
 
-However, despite the lack of copyright, I do not accept any responsibility for any damage resulting from the use of this content. You use this content at your own risk. 
+In jurisdictions that recognize copyright laws, the author or authors
+of this software dedicate any and all copyright interest in the
+software to the public domain. We make this dedication for the benefit
+of the public at large and to the detriment of our heirs and
+successors. We intend this dedication to be an overt act of
+relinquishment in perpetuity of all present and future rights to this
+software under copyright law.
 
-Please note that this disclaimer and copyright does not apply to any other content that may be included in this text, such as images (other than the images in the "ico" folder, they are in the public domain), videos, audio recordings or links to external sites. The copyrights to these materials may belong to their respective owners. 
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.
 
-This disclaimer of liability and copyright is not intended to create legal obligations. It is intended only to provide information on how this content can be used.
+For more information, please refer to <https://unlicense.org>
